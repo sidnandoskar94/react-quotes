@@ -1,0 +1,1 @@
+export const quotesAPIURL = 'https://dummyjson.com/quotes'
